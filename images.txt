@@ -1,6 +1,6 @@
 privoce/vocechat-server:latest
 portainer/portainer-ce
-whyour/qinglong:2.11.3
 zerotier/zerotier:latest
 gdy666/lucky:latest
 containrrr/watchtower:latest
+whyour/qinglong:2.11.3

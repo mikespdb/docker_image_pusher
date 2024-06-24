@@ -3,4 +3,6 @@ portainer/portainer-ce
 zerotier/zerotier:latest
 gdy666/lucky:latest
 containrrr/watchtower:latest
-whyour/qinglong:2.11.3
+whyour/qinglong:latest
+mongodb
+registry.rocket.chat/rocketchat/rocket.chat:latest

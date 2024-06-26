@@ -7,4 +7,3 @@ whyour/qinglong:latest
 bitnami/mongodb:5.0
 registry.rocket.chat/rocketchat/rocket.chat:latest
 mongo:latest
-rocket.chat:latest

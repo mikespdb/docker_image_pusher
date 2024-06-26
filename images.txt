@@ -1,4 +1,3 @@
-privoce/vocechat-server:latest
 portainer/portainer-ce
 zerotier/zerotier:latest
 gdy666/lucky:latest

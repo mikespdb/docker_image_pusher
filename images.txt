@@ -4,7 +4,7 @@ zerotier/zerotier:latest
 gdy666/lucky:latest
 containrrr/watchtower:latest
 whyour/qinglong:latest
-bitnami/mongodb:latest
+bitnami/mongodb:5.0
 registry.rocket.chat/rocketchat/rocket.chat:latest
 mongo:latest
 rocket.chat:latest

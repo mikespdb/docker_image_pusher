@@ -6,3 +6,4 @@ whyour/qinglong:latest
 bitnami/mongodb:5.0
 registry.rocket.chat/rocketchat/rocket.chat:latest
 mongo:latest
+analogic/poste.io
